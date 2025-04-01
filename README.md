@@ -175,6 +175,7 @@ If you want to contribute to this list, please make a PR
 | [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
 | [burr](https://github.com/dagworks-inc/burr) | <a href=https://github.com/dagworks-inc/burr><img src="https://img.shields.io/github/stars/dagworks-inc/burr?style=social" width=100/></a> |
 | [Upsonic](https://www.upsonic.ai/) | <a href=https://github.com/upsonic/upsonic><img src="https://img.shields.io/github/stars/upsonic/upsonic?style=social" width=100/></a> |
+| [Giselle](https://giselles.ai/) | <a href=https://github.com/giselles-ai/giselle><img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social" width=100/></a> |
 
 
 ## Model Serving
