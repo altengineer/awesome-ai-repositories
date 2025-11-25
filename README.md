@@ -260,6 +260,7 @@ If you want to contribute to this list, please make a PR
 | [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
 | [hamilton](https://github.com/dagworks-inc/hamilton) | <a href=https://github.com/dagworks-inc/hamilton><img src="https://img.shields.io/github/stars/dagworks-inc/hamilton?style=social" width=100/></a> |
 | [RagBuilder](https://github.com/KruxAI/ragbuilder) | <a href=https://github.com/KruxAI/ragbuilder><img src="https://img.shields.io/github/stars/kruxai/ragbuilder?style=social" width=100/></a> |
+| [Kiln](https://kiln.tech/) | <a href=https://github.com/Kiln-AI/Kiln><img src="https://img.shields.io/github/stars/Kiln-AI/Kiln?style=social" width=100/></a> |
 
 ## Security
 
