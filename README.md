@@ -40,6 +40,7 @@ If you want to contribute to this list, please make a PR
 | [GPTRouter](https://gpt-router.writesonic.com/) | <a href=https://github.com/Writesonic/GPTRouter><img src="https://img.shields.io/github/stars/Writesonic/GPTRouter?style=social" width=100/></a> |
 | [tensorzero](https://www.tensorzero.com/) | <a href=https://github.com/tensorzero/tensorzero><img src="https://img.shields.io/github/stars/tensorzero/tensorzero?style=social" width=100/></a> |
 | [missing studio](https://www.missing.studio/) | <a href=https://github.com/missingstudio/gateway><img src="https://img.shields.io/github/stars/missingstudio/gateway?style=social" width=100/></a> |
+| [Bifrost](https://getmaxim.ai/bifrost) | <a href=https://github.com/maximhq/bifrost><img src="https://img.shields.io/github/stars/maximhq/bifrost?style=social" width=100/></a> |
 
 ## AI Workload Manager
 
