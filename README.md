@@ -56,6 +56,7 @@ If you want to contribute to this list, please make a PR
 |------------|------------|
 | [copilotkit](https://www.copilotkit.ai/) | <a href=https://github.com/CopilotKit/CopilotKit><img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social" width=100/></a> |
 | [OpenCopilot](https://opencopilot.so/) | <a href=https://github.com/openchatai/OpenCopilot><img src="https://img.shields.io/github/stars/openchatai/OpenCopilot?style=social" width=100/></a> |
+| [toprank](https://github.com/nowork-studio/toprank) | <a href=https://github.com/nowork-studio/toprank><img src="https://img.shields.io/github/stars/nowork-studio/toprank?style=social" width=100/></a> |
 
 
 ## Dataset Engineering
