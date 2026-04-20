@@ -8,6 +8,7 @@ If you want to contribute to this list, please make a PR
 
 ## Contents
 - [AI Gateway](#ai-gateway)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [AI Workload Manager](#ai-workload-manager)
 - [Copilot Development](#copilot-development)
 - [Dataset Engineering](#dataset-engineering)
