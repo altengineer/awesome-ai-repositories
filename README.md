@@ -309,3 +309,4 @@ If you want to contribute to this list, please make a PR
 | [oasysdb](https://docs.oasysdb.com/) | <a href=https://github.com/oasysai/oasysdb><img src="https://img.shields.io/github/stars/oasysai/oasysdb?style=social" width=100/></a> |
 | [lantern](https://lantern.dev/) | <a href=https://github.com/lanterndata/lantern><img src="https://img.shields.io/github/stars/lanterndata/lantern?style=social" width=100/></a> |
 | [vespa](https://vespa.ai/) | <a href=https://github.com/vespa-engine/vespa><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social" width=100/></a> |
+| [Dakera](https://github.com/dakera-ai/dakera-mcp) | <a href=https://github.com/dakera-ai/dakera-mcp><img src="https://img.shields.io/github/stars/dakera-ai/dakera-mcp?style=social" width=100/></a> |
