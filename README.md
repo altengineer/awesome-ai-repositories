@@ -205,6 +205,7 @@ If you want to contribute to this list, please make a PR
 | [LangWatch](https://github.com/langwatch/langwatch) | <a href=https://github.com/langwatch/langwatch><img src="https://img.shields.io/github/stars/langwatch/langwatch?style=social" width=100/></a> |
 | [burr](https://github.com/dagworks-inc/burr) | <a href=https://github.com/dagworks-inc/burr><img src="https://img.shields.io/github/stars/dagworks-inc/burr?style=social" width=100/></a> |
 | [hamilton](https://github.com/dagworks-inc/hamilton) | <a href=https://github.com/dagworks-inc/hamilton><img src="https://img.shields.io/github/stars/dagworks-inc/hamilton?style=social" width=100/></a> |
+| [Future AGI](https://github.com/future-agi/future-agi) | <a href=https://github.com/future-agi/future-agi><img src="https://img.shields.io/github/stars/future-agi/future-agi?style=social" width=100/></a> |
 
 
 ## Pre Training
