@@ -268,6 +268,7 @@ If you want to contribute to this list, please make a PR
 | [Armur](https://armur.ai/) | <a href=https://github.com/Armur-Ai/Auto-Pentest-GPT-AI><img src="https://img.shields.io/github/stars/Armur-Ai/Auto-Pentest-GPT-AI?style=social" width=100/></a> |
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity and autonomy score before authorizing x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Structured Extraction
 
 | Name (site) | Github |
