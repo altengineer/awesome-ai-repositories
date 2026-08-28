@@ -36,6 +36,7 @@ If you want to contribute to this list, please make a PR
 | [Kong](https://konghq.com/products/kong-ai-gateway) | <a href=https://github.com/Kong/kong><img src="https://img.shields.io/github/stars/Kong/kong?style=social" width=100/></a> |
 | [Litellm](https://docs.litellm.ai/docs/) | <a href=https://github.com/BerriAI/litellm><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" width=100/></a> |
 | [Portkey](https://portkey.ai/) | <a href=https://github.com/Portkey-AI/gateway><img src="https://img.shields.io/github/stars/Portkey-AI/gateway?style=social" width=100/></a> |
+| [SandBase](https://sandbase.ai/) | <a href=https://github.com/sandbaseai/cli><img src="https://img.shields.io/github/stars/sandbaseai/cli?style=social" width=100/></a> |
 | [RouteLLM](https://lmsys.org/projects/) | <a href=https://github.com/lm-sys/RouteLLM><img src="https://img.shields.io/github/stars/lm-sys/RouteLLM?style=social" width=100/></a> |
 | [GPTRouter](https://gpt-router.writesonic.com/) | <a href=https://github.com/Writesonic/GPTRouter><img src="https://img.shields.io/github/stars/Writesonic/GPTRouter?style=social" width=100/></a> |
 | [tensorzero](https://www.tensorzero.com/) | <a href=https://github.com/tensorzero/tensorzero><img src="https://img.shields.io/github/stars/tensorzero/tensorzero?style=social" width=100/></a> |
